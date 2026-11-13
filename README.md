@@ -10,6 +10,10 @@
   <a href="../../releases/latest"><b>⬇ Descargar el instalador</b></a>
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/subidev"><img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+</p>
+
 ---
 
 ## Instalación
@@ -100,6 +104,14 @@ Un cuentagotas para elegir cualquier píxel de la pantalla. El color se copia en
 
 - Todo se guarda en tu PC, en `%APPDATA%\KeyFlow`.
 - KeyFlow solo se conecta a internet para descargar los tipos de cambio y cuando tú abres una búsqueda web.
+
+---
+
+## Apoya el proyecto
+
+KeyFlow es gratis. Si te resulta útil, puedes invitarme a un café en Ko-fi:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/subidev)
 
 ---
 

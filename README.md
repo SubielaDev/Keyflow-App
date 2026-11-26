@@ -37,6 +37,17 @@
 
 ---
 
+## Documentación
+
+| | |
+|---|---|
+| 📖 [Guía de uso](docs/guia-de-uso.md) | Cada función paso a paso, con ejemplos y atajos |
+| ⚙️ [Ajustes](docs/ajustes.md) | Todas las opciones y sus valores por defecto |
+| ❓ [Preguntas frecuentes](docs/preguntas-frecuentes.md) | Problemas habituales, dónde se guardan los datos, cómo desinstalar |
+| 📝 [Registro de cambios](CHANGELOG.md) | Novedades de cada versión |
+
+---
+
 ## Funciones
 
 ### 🔎 Buscador de aplicaciones

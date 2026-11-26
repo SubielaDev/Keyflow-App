@@ -1,7 +1,10 @@
 # Preguntas frecuentes y solución de problemas
 
+### ¿Tengo que instalar algo más?
+No. Desde la versión 0.1.1 el instalador incluye todo lo necesario, también Node.js, que KeyFlow App usa por dentro. Lo único que usa de Windows es WebView2, que ya viene con Windows 10 y 11; si en algún PC faltara, el instalador lo descarga e instala solo (para eso necesita conexión a internet).
+
 ### KeyFlow App se abre pero no muestra resultados
-Falta **Node.js**. KeyFlow App lo usa para buscar apps, convertir divisas, gestionar alarmas, etc. Instala [Node.js](https://nodejs.org/) 20 o superior (la versión LTS vale), asegúrate de que queda en el `PATH` (el instalador lo hace por defecto) y vuelve a abrir KeyFlow App.
+Si tienes la versión 0.1.0, instala la [última versión](https://github.com/SubielaDev/keyflow-app/releases/latest): la 0.1.0 necesitaba tener Node.js instalado aparte. Con la 0.1.1 o posterior, reinstálala; si el antivirus puso en cuarentena algún archivo de la carpeta de KeyFlow App, restáuralo.
 
 ### Windows dice «Windows protegió su PC» al instalar
 El instalador no está firmado digitalmente, así que SmartScreen no lo reconoce. Pulsa **Más información → Ejecutar de todas formas**.

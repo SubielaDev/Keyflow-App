@@ -24,14 +24,14 @@
 
 ## Instalación
 
-1. Descarga `KeyFlow-App_0.1.0_x64-setup.exe` desde [Releases](../../releases/latest).
+1. Descarga `KeyFlow-App_0.1.1_x64-setup.exe` desde [Releases](../../releases/latest).
 2. Ejecútalo y sigue el asistente.
 3. Pulsa **Alt + Espacio** para abrir KeyFlow App.
 
 ### Requisitos
 
 - Windows 10 u 11 (64 bits).
-- **[Node.js](https://nodejs.org/) 20 o superior** instalado y disponible en el `PATH`. KeyFlow App lo usa para buscar apps, convertir divisas, gestionar alarmas, etc. Sin Node.js la ventana abre pero no muestra resultados.
+- Nada más: el instalador trae todo lo necesario, incluido el motor que usa KeyFlow App por dentro (Node.js).
 
 > El instalador no está firmado digitalmente, así que Windows SmartScreen puede mostrar el aviso «Windows protegió su PC». Pulsa **Más información → Ejecutar de todas formas**.
 
@@ -133,3 +133,5 @@ KeyFlow App es gratis. Si te resulta útil, puedes invitarme a un café en Ko-fi
 ---
 
 © 2026 SubielaDev. Todos los derechos reservados.
+
+KeyFlow App incluye [Node.js](https://nodejs.org/) (licencia MIT); su aviso de licencia se instala junto al programa, en la carpeta `node`.

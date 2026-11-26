@@ -14,6 +14,12 @@
   <a href="https://ko-fi.com/subidev"><img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </p>
 
+<p align="center">
+  <img src="assets/keyflow-demo.gif" alt="Demostración de KeyFlow: apps, calculadora, divisas, búsqueda web, emojis, portapapeles y ajustes">
+</p>
+
+<p align="center"><sub>Vídeo en alta calidad (MP4, 1080p): <a href="https://github.com/SubielaDev/keyflow/releases/download/v0.1.0/keyflow-demo.mp4">keyflow-demo.mp4</a></sub></p>
+
 ---
 
 ## Instalación

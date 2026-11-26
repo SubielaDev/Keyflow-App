@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.png" width="96" alt="KeyFlow">
+  <img src="assets/logo.png" width="96" alt="KeyFlow App">
 </p>
 
-<h1 align="center">KeyFlow</h1>
+<h1 align="center">KeyFlow App</h1>
 
 <p align="center">Lanzador rápido para Windows: abre apps, calcula, convierte divisas, busca en la web y mucho más desde una sola barra.</p>
 
@@ -15,23 +15,23 @@
 </p>
 
 <p align="center">
-  <img src="assets/keyflow-demo.gif" alt="Demostración de KeyFlow: apps, calculadora, divisas, búsqueda web, emojis, portapapeles y ajustes">
+  <img src="assets/keyflow-demo.gif" alt="Demostración de KeyFlow App: apps, calculadora, divisas, búsqueda web, emojis, portapapeles y ajustes">
 </p>
 
-<p align="center"><sub>Vídeo en alta calidad (MP4, 1080p): <a href="https://github.com/SubielaDev/keyflow/releases/download/v0.1.0/keyflow-demo.mp4">keyflow-demo.mp4</a></sub></p>
+<p align="center"><sub>Vídeo en alta calidad (MP4, 1080p): <a href="https://github.com/SubielaDev/keyflow-app/releases/download/v0.1.0/keyflow-demo.mp4">keyflow-demo.mp4</a></sub></p>
 
 ---
 
 ## Instalación
 
-1. Descarga `KeyFlow_0.1.0_x64-setup.exe` desde [Releases](../../releases/latest).
+1. Descarga `KeyFlow-App_0.1.0_x64-setup.exe` desde [Releases](../../releases/latest).
 2. Ejecútalo y sigue el asistente.
-3. Pulsa **Alt + Espacio** para abrir KeyFlow.
+3. Pulsa **Alt + Espacio** para abrir KeyFlow App.
 
 ### Requisitos
 
 - Windows 10 u 11 (64 bits).
-- **[Node.js](https://nodejs.org/) 20 o superior** instalado y disponible en el `PATH`. KeyFlow lo usa para buscar apps, convertir divisas, gestionar alarmas, etc. Sin Node.js la ventana abre pero no muestra resultados.
+- **[Node.js](https://nodejs.org/) 20 o superior** instalado y disponible en el `PATH`. KeyFlow App lo usa para buscar apps, convertir divisas, gestionar alarmas, etc. Sin Node.js la ventana abre pero no muestra resultados.
 
 > El instalador no está firmado digitalmente, así que Windows SmartScreen puede mostrar el aviso «Windows protegió su PC». Pulsa **Más información → Ejecutar de todas formas**.
 
@@ -98,7 +98,7 @@ Un cuentagotas para elegir cualquier píxel de la pantalla. El color se copia en
 | Sección | Opciones |
 |---|---|
 | **Apariencia** | Estilo *Clásico* o *Redondeado* · color de la aureola de la barra (degradado, colores o ninguna) · transparencia · color de fondo con tono, saturación y brillo |
-| **General** | Atajo para abrir KeyFlow · iniciar con Windows · ocultar al hacer clic fuera · recordar la última búsqueda |
+| **General** | Atajo para abrir KeyFlow App · iniciar con Windows · ocultar al hacer clic fuera · recordar la última búsqueda |
 | **Búsqueda** | Mostrar apps recientes · búsqueda web con Tab · divisa local |
 | **Portapapeles** | Guardar historial · máximo de elementos (25–500) |
 
@@ -108,7 +108,7 @@ Un cuentagotas para elegir cualquier píxel de la pantalla. El color se copia en
 
 | Atajo | Acción |
 |---|---|
-| `Alt + Espacio` | Abrir / cerrar KeyFlow (configurable) |
+| `Alt + Espacio` | Abrir / cerrar KeyFlow App (configurable) |
 | `↑` `↓` | Moverse por los resultados |
 | `Enter` | Abrir o ejecutar el resultado |
 | `Tab` / `Shift + Tab` | Cambiar entre Google, YouTube y la búsqueda normal |
@@ -120,13 +120,13 @@ Un cuentagotas para elegir cualquier píxel de la pantalla. El color se copia en
 ## Privacidad
 
 - Todo se guarda en tu PC, en `%APPDATA%\KeyFlow`.
-- KeyFlow solo se conecta a internet para descargar los tipos de cambio y cuando tú abres una búsqueda web.
+- KeyFlow App solo se conecta a internet para descargar los tipos de cambio y cuando tú abres una búsqueda web.
 
 ---
 
 ## Apoya el proyecto
 
-KeyFlow es gratis. Si te resulta útil, puedes invitarme a un café en Ko-fi:
+KeyFlow App es gratis. Si te resulta útil, puedes invitarme a un café en Ko-fi:
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/subidev)
 

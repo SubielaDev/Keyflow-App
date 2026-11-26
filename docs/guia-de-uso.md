@@ -1,8 +1,8 @@
 # Guía de uso
 
-KeyFlow es una barra de búsqueda que aparece encima de cualquier ventana. Se abre con **Alt + Espacio** (el atajo se puede cambiar en los [ajustes](ajustes.md)), escribes lo que quieres y pulsas **Enter**.
+KeyFlow App es una barra de búsqueda que aparece encima de cualquier ventana. Se abre con **Alt + Espacio** (el atajo se puede cambiar en los [ajustes](ajustes.md)), escribes lo que quieres y pulsas **Enter**.
 
-- [Abrir y cerrar KeyFlow](#abrir-y-cerrar-keyflow)
+- [Abrir y cerrar KeyFlow App](#abrir-y-cerrar-keyflow-app)
 - [Aplicaciones](#aplicaciones)
 - [Calculadora](#calculadora)
 - [Conversor de divisas](#conversor-de-divisas)
@@ -12,12 +12,12 @@ KeyFlow es una barra de búsqueda que aparece encima de cualquier ventana. Se ab
 - [Selector de color](#selector-de-color)
 - [Cronómetro](#cronómetro)
 - [Alarmas y temporizador](#alarmas-y-temporizador)
-- [Comandos de KeyFlow](#comandos-de-keyflow)
+- [Comandos de KeyFlow App](#comandos-de-keyflow-app)
 - [Atajos de teclado](#atajos-de-teclado)
 
 ---
 
-## Abrir y cerrar KeyFlow
+## Abrir y cerrar KeyFlow App
 
 | Acción | Cómo |
 |---|---|
@@ -26,7 +26,7 @@ KeyFlow es una barra de búsqueda que aparece encima de cualquier ventana. Se ab
 | Borrar lo escrito | `Esc` con texto en la barra |
 | Volver de un panel (emojis, ajustes…) | `Esc` o la flecha **←** de arriba a la izquierda |
 
-KeyFlow se queda en la **bandeja del sistema** (junto al reloj). Desde su icono puedes mostrarlo, abrir los **Ajustes** o **Salir**.
+KeyFlow App se queda en la **bandeja del sistema** (junto al reloj). Desde su icono puedes mostrarlo, abrir los **Ajustes** o **Salir**.
 
 ## Aplicaciones
 
@@ -118,12 +118,12 @@ Busca **emoji** y abre *Emojis*. Escribe en español o en inglés (`fuego`, `fir
 
 Busca **color** y abre *Selector de color*. El cursor se convierte en una flecha oscura: haz clic en cualquier punto de la pantalla para capturar su color.
 
-- El color se copia en hexadecimal (por ejemplo `#8B3BF0`) y KeyFlow lo muestra en una tarjeta con sus valores RGB.
+- El color se copia en hexadecimal (por ejemplo `#8B3BF0`) y KeyFlow App lo muestra en una tarjeta con sus valores RGB.
 - `Esc` cancela. Si no eliges nada en 60 segundos, se cancela solo.
 
 ## Cronómetro
 
-Busca **cronómetro**. Botones **Iniciar / Pausar / Reanudar**, **Vuelta** para marcar tiempos parciales y **Reiniciar**. Sigue contando aunque ocultes la ventana de KeyFlow.
+Busca **cronómetro**. Botones **Iniciar / Pausar / Reanudar**, **Vuelta** para marcar tiempos parciales y **Reiniciar**. Sigue contando aunque ocultes la ventana de KeyFlow App.
 
 ## Alarmas y temporizador
 
@@ -137,24 +137,24 @@ Busca **alarmas** o **temporizador**.
 
 - Cada alarma puede llevar un nombre y uno de cuatro sonidos tranquilos: **Cuenco**, **Marimba**, **Gotas** o **Amanecer** (puedes escucharlos antes de elegir).
 - Haz clic en una alarma de la lista para editarla; el interruptor la activa o desactiva.
-- Cuando suena, KeyFlow aparece en pantalla con **Detener** y **Posponer 5 min**. Si nadie la para, deja de sonar sola a los 5 minutos.
-- Las alarmas funcionan aunque la ventana de KeyFlow esté cerrada, siempre que KeyFlow siga en marcha (icono en la bandeja).
+- Cuando suena, KeyFlow App aparece en pantalla con **Detener** y **Posponer 5 min**. Si nadie la para, deja de sonar sola a los 5 minutos.
+- Las alarmas funcionan aunque la ventana de KeyFlow App esté cerrada, siempre que KeyFlow App siga en marcha (icono en la bandeja).
 
-## Comandos de KeyFlow
+## Comandos de KeyFlow App
 
 Además de lo anterior, puedes buscar estos comandos:
 
 | Comando | Qué hace |
 |---|---|
-| Ajustes de KeyFlow | Abre los [ajustes](ajustes.md) (también con `Ctrl + ,` o el engranaje de abajo a la derecha). |
+| Ajustes de KeyFlow App | Abre los [ajustes](ajustes.md) (también con `Ctrl + ,` o el engranaje de abajo a la derecha). |
 | Recargar aplicaciones | Vuelve a leer las apps del menú Inicio. |
-| Salir de KeyFlow | Cierra KeyFlow por completo. |
+| Salir de KeyFlow App | Cierra KeyFlow App por completo. |
 
 ## Atajos de teclado
 
 | Atajo | Dónde | Acción |
 |---|---|---|
-| `Alt + Espacio` | En cualquier sitio | Abrir / cerrar KeyFlow (configurable) |
+| `Alt + Espacio` | En cualquier sitio | Abrir / cerrar KeyFlow App (configurable) |
 | `↑` `↓` | Resultados | Moverse |
 | `Enter` | Resultados | Abrir, ejecutar o copiar |
 | `Tab` / `Shift + Tab` | Barra | Cambiar entre Google, YouTube y la búsqueda normal |
